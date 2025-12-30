@@ -1,0 +1,8 @@
+{
+  "name": "@ruralpulse-org/logger",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "dependencies": {
+    "pino": "^8.17.0"
+  }
+}
