@@ -1,5 +1,5 @@
 {
-  "name": "@ruralpulse-org/logger",
+  "name": "@ruban-svg/logger-service",
   "version": "1.0.0",
   "main": "src/index.js",
   "dependencies": {
